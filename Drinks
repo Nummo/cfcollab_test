@@ -1,5 +1,17 @@
-Drinks
-- Fanta
-- Sprite
-- Tea
-- Coffee 
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Drinks</title>
+	</head>
+	<body>
+<h1> Types of Drinks </h1>
+
+	<ul>
+	<li>- Fanta</li>
+	<li>- Sprite</li>
+	<li>- Tea</li>
+	<li>- Coffee</li>
+</ul>
+
+	</body>
+</html>
